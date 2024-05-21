@@ -25,4 +25,4 @@ The Company Smart Contract is designed to manage and distribute the profits gene
 5. setHeadAddress: Update the head address.
 6. setPercents: Define profit-sharing percentages.
 
-For support or further inquiries, the development team can be reached at info@pcometaearth.com](mailto:info@pcometaearth.com).
+For support or further inquiries, the development team can be reached at [info@pcometaearth.com](mailto:info@pcometaearth.com).
